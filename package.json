@@ -1,0 +1,29 @@
+{
+  "name": "open-json-api",
+  "version": "1.0.0",
+  "description": "A Life Rest Api using Json-Server, and Hosted on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.8.21",
+    "glob": "^7.0.5"
+  },
+  "engines": {
+    "node": "6.9.1",
+    "ejs": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allindeveloper/open-json-api"
+  },
+  "keywords": [
+    "node",
+    "json-server"
+  ],
+  "author": "Uchendu Precious",
+  "contributors": [
+    "precious"
+  ]
+}
