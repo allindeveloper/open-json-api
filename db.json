@@ -1,14 +1,12 @@
 {
-  "stories": [
+  "employees": [
     {
       "id": 1,
       "firstname": "Precious",
       "lastname": "Uchendu",
       "username": "precious.uchendu",
       "gender":"Male",
-      "headline":"I love React",
-      "story":"Once Upon a time i could not code, now i can and i love it",
-      "likes":2
+      "info":"Once Upon a time i could not code, now i can and i love it"
     },
     {
       "id": 2,
@@ -16,9 +14,7 @@
       "lastname": "James",
       "username": "steve.james",
       "gender":"Male",
-      "headline":"Love Song",
-      "story":"Very soon i'll be a very good musician",
-      "likes":5
+       "info":"Very soon i'll be a very good musician"
     },
     {
       "id": 3,
@@ -26,9 +22,7 @@
       "lastname": "Aja",
       "username": "joy.aja",
       "gender":"Female",
-      "headline":"This is going great",
-      "story":"So i remember when i was started reading for this mathematics exam, it was very very difficult, as i did not understand much. Thank God i did ny best during the exam and i finished with a good score...",
-      "likes":9
+      "info":"So i remember when i was started reading for this mathematics exam, it was very very difficult, as i did not understand much. Thank God i did ny best during the exam and i finished with a good score..."
     },
     {
       "id": 4,
@@ -36,9 +30,7 @@
       "lastname": "Esther",
       "username": "queen.esther",
       "gender":"Female",
-      "headline":"Meeting new people is Fun",
-      "story":"So i just met this guy, he's so great and smart. I really wish we could see more often",
-      "likes":9
+      "info":"So i just met this guy, he's so great and smart. I really wish we could see more often"
     }
   ]
 }
