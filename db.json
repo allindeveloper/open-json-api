@@ -4,7 +4,7 @@
       "id": 1,
       "firstname": "Precious",
       "lastname": "Uchendu",
-      "username": "precious.uchendu",
+      "nationality": "Nigeria",
       "gender":"Male",
       "info":"Once Upon a time i could not code, now i can and i love it"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "firstname": "Steve",
       "lastname": "James",
-      "username": "steve.james",
+      "nationality": "Nigeria",
       "gender":"Male",
        "info":"Very soon i'll be a very good musician"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "firstname": "Joy",
       "lastname": "Aja",
-      "username": "joy.aja",
+      "nationality": "Nigeria",
       "gender":"Female",
       "info":"So i remember when i was started reading for this mathematics exam, it was very very difficult, as i did not understand much. Thank God i did ny best during the exam and i finished with a good score..."
     },
